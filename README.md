@@ -1,6 +1,7 @@
 # React_Studying
 About React
 
+* * *
 
 # React 시작하기
 
@@ -9,7 +10,7 @@ React, Angular, Vue를 사용하는 이유
 - 데이터바인딩{ 변수명, 함수 등 }등이 쉽다 ==> 가장 큰 장점
 
 
-## React 프로젝트 생성하기
+# React 프로젝트 생성하기
 ```
 npx create-react-app 프로젝트이름
 ```  
