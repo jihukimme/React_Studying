@@ -171,6 +171,12 @@ Update: PUT
 Delete: DELETE
 
 
+* * *
+
+# 알아두면 좋을 React 지식
+계속 업데이트 할 예정
+
+
 useEffect()
 
 export default: export를 해주면 다른 파일에서도 해당 interface를 사용할 수 있다.
